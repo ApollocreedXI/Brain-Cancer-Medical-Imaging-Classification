@@ -35,7 +35,7 @@ One-versus-all ROC curve for the highest performing model
 ├── LICENSE            <- Open-source license if one is chosen
 ├── README.md          <- The top-level README for developers using this project.
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+├── notebooks          <- HTML Jupyter notebook. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
