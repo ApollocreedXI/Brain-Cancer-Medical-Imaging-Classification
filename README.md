@@ -26,7 +26,7 @@ Overall, the strong performance demonstrates the potential for AI in medical ima
 
 # Project Artifacts
 <img width="605" height="531" alt="image" src="https://github.com/user-attachments/assets/f851df08-7a8f-4bdc-809a-000064af73d9" />
-
+One-versus-all ROC curve for the highest performing model
 
 
 ## Project Organization
