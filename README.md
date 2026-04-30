@@ -24,6 +24,10 @@ Utilizing a custom-built ResNet the model was able to achieve remarkable discrim
 
 Overall, the strong performance demonstrates the potential for AI in medical imaging interpretation. Computer vision in medical imaging for cancer can facilitate faster, accurate, and reliable interpretation of medical images. This will allow more individuals to get screened, diagnosed, and receive early treatment for improved survival probabilities and better quality of life. 
 
+# Project Artifacts
+<img width="605" height="531" alt="image" src="https://github.com/user-attachments/assets/f851df08-7a8f-4bdc-809a-000064af73d9" />
+
+
 
 ## Project Organization
 
