@@ -3,7 +3,8 @@
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/87e4f1bc-8392-4655-93fb-dc3227a54d07" />
+* Note - AI generated
 # Introduction
 Cancer remains one of the leading causes of death worldwide, responsible for approximately 10 million deaths annually (Gou X, 2025). Alarmingly, 70% of cancer deaths are accounted by low and mid income countries. This is primarily because of limited access to screening, diagnosis, treatment, and palliative care (Oghenekaro, 2025). Cancer can be seen as not only a medical challenge, but also a socioeconomic one. To make healthcare outcome more equitable, novel innovations in AI can be utilized for early detections in improving survival outcomes for patients.
 
