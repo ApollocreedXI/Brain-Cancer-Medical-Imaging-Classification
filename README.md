@@ -18,14 +18,3 @@ A short description of the project.
 │
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-│
-└── cv:_medical_imaging_classification   <- Source code for use in this project.
-```
-
---------
-
